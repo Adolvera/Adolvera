@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adrian! <br/><a href="https://github.com/Adolvera">IT Professional</a></h1>
 
-<h3>👨‍💻 IT Projects:</h3>
+<h2>👨‍💻 IT Projects:</h2>
 
 - [Implementing Active Directory (On-Premises) in Oracle VirtualBox](www.youtube.com)
 - [Implementing a Help Desk Ticketing System (osTicket) using  Virtual Machines](www.youtube.com)
