@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Implementing Active Directory (On-Premises) in Oracle VirtualBox](www.youtube.com)
+- [Implementing Active Directory (On-Premises) in Oracle VirtualBox](https://github.com/Adolvera/ActiveDirectoryLab)
 - [Implementing a Help Desk Ticketing System (osTicket) using  Virtual Machines](www.youtube.com)
 
 <h2>Certifications</h2>
